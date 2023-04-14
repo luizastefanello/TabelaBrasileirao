@@ -1,0 +1,104 @@
+/*tamanho 13px, cor #999999, formato negrito e alinhamento
+centralizado;*/
+.coluna{
+    font-size: 13px;
+    font-weight: bold;
+    color: #999999;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ponto{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F7F7F7;
+    
+}
+.time{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif; 
+    color:#666666;
+    width: 200px;
+}
+.classf1{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #003366;
+}
+.classf2{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #1398BE;
+}
+.classf3{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #DE9800;
+}
+.classf4{
+font-size: 18px;
+font-weight: bold;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif; 
+color: #CCCCCC;
+}
+.classf5{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #C91B04;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid #DDDDDD;
+
+}
+/*tamanho 14px, cor #666666, formato não negritado
+e alinhamento centralizado*/
+td{
+    border-bottom: 1px solid #DDDDDD;
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+    width: 35px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.border2{
+    border-bottom: #CCCCCC 2px solid;  
+}
+.border3{
+    border-bottom: none;
+}
+.fundo{
+    background-color: #F7F7F7;
+}
+/*tamanho 10px, cor #8F8F8F, formato não negritado e alinhamento à esquerda*/
+#legendaclass{
+    font-size: 10px;
+    color: #8F8F8F;
+    text-align: left;
+    padding: 1px;
+}
+/*Legendas (significados): tamanho 10px, cor #555555, formato não negritado e
+alinhamento à esquerda.*/
+#legenda{
+    font-size: 10px;
+    text-align: left;
+    color: #555555;
+    padding: 1px;
+}
+.porcentagem{
+    width: 80px;
+}

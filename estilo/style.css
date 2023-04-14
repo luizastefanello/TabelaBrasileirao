@@ -1,0 +1,35 @@
+.titulo1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #0D5288;
+    color: white;
+    font-weight: bold;
+}
+.linha2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #66c5e3;
+    font-weight: bold;
+}
+.posicao{
+    background-color: silver;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 10%;
+}
+.cidades{
+    font-weight: bold;
+    background-color: #c7e7f3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #0D5188;
+}
+.pop{
+    background-color: #c7e7f3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 15%;
+}
+table{
+    width: 600px;
+}
